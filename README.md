@@ -1,7 +1,5 @@
-dotfiles
-========
-
-This is my (new, fish-based) collection of [configuration files](http://dotfiles.github.io/).
+dotfiles ❤ ~/
+=============
 
 Usage
 -----
@@ -21,4 +19,4 @@ so install that first before `stow`ing fish.
 License
 -------
 
-[MIT](http://opensource.org/licenses/MIT).
+[MIT](http://opensource.org/licenses/MIT)
