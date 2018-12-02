@@ -8,7 +8,7 @@ Pull the repository, and then create the symbolic links [using GNU
 stow](https://www.gnu.org/software/stow/).
 
 ```bash
-$ git clone git@github.com:natpen/dotfiles2.git ~/dotfiles
+$ git clone git@github.com:natpen/dotfiles.git ~/dotfiles
 $ cd ~/dotfiles
 $ stow fish # plus whatever else you'd like
 ```
